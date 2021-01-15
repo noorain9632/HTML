@@ -1,0 +1,22 @@
+body    {background-color: white; }
+
+.main-container           {height: 500px; width: 50%;margin: auto;margin-top: 80px;  }
+.header-container         {height: 250px; width: 100%; background-color: rgb(73, 73, 73); }
+#profile-pic              {height: 120px; width:120px; border-radius: 100%; border:  3px dotted rgba(233, 204, 37, 0.782);margin-left: 40%;margin-top: 7%;}
+.header-container hr      {height: 20px; background-color: white; margin: 0px;}
+.header-container h1      {text-align: center;color: black; margin:5px; background-color: rgba(233, 204, 37, 0.782);margin-left: 27%; width: 300px; }
+.info-container   p       {font-size: small; color: grey;text-align: center;}
+.column1                  {background-color:white;width: 46%;float: left; height: 500px auto; padding-left: 1%;border-right:1px solid black ;padding-right: 1%;}      
+.column2                  {background-color:white;width: 46%;float: left; height: 500px auto; padding-left: 3%;}  
+.column1 h3               {font-size: large; color: grey;}    
+.fa-flask,.fa-user        {color:rgb(197,133,14);margin-right: 15px;background-color: rgb(68,68,68);border-radius: 100%;border: 2px dotted rgb(197,133,14);padding: 5px 7px;}
+.column1 p                {font-size: small; color: black;}
+.column1 h4               {color:black;text-align: center;}
+.column1 ul             {color: grey; list-style: none;margin: 0px; padding: 0px;}
+.fa-star                  {color: rgb(197,133,14);float: right; margin-right: 10px;}
+.column2 h3               {font-size: large;color: grey;}       
+.column2 p                {font-size: small;color: black;}   
+.column2 h5               {padding-top: 5px;}
+.column1 ol                {font-weight:lighter;font-size: small;  }
+.column2 ul                {font-weight:lighter;font-size: small;  }
+.column1 ul  li           {margin-top: 5px;}
